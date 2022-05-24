@@ -7,10 +7,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
---👋 Hi, Its me again (2022 June)
+- 👋 Hi, Its me again (2022 June)
 - 👀 When i started my profile here i was also doing the freeCodeCamp front-end bootcamp on React. After i got the front-end libraries done, i thought to reach out to our best friend (google/stackoverflow searchs) to learn a bit of React, ReactNative, NodeJs with express, bcrypt, jwt and MySql, to develop my own applications, working across multiple platforms, and proposing solutions to commom problems around me. I also started learning some stuff about git and github, and good code practices. Therefore i figured almost every line i did could have some readability problems, which im trying to improve in small steps
 - 🌱 So my first application is an Digital Orders App for small restaurants, i had the inspiration when my family started a small restaurant business last year, after i saw their difficulties with organizing the orders. So a month ago i started learning ReactNative and started designing this piece of software using ReactNative, NodeJs and Mysql, which im putting into a separate folder(currently it is in my ultra messy "DEV" folder, see im learning github SEO stuff hahahah). Lets see how it goes?
-- - 💞️ I’m really looking to collaborate on a cool project/company
+- 💞️ I’m really looking to collaborate on a cool project/company
 - 📫 You can email me at : costa.vitor.fernandes@gmail.com
 <!---
 Costa-Vitor-Fernandes/Costa-Vitor-Fernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
