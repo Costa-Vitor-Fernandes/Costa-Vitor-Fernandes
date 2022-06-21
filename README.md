@@ -1,4 +1,4 @@
-# - 👋  Hi, I’m @Costa-Vitor-Fernandes (21Jun) Now i have a cool [portfolio page](https://costa-vitor-fernandes.vercel.app/)
+# - 👋  Hi, I’m @Costa-Vitor-Fernandes - Check my [portfolio page](https://costa-vitor-fernandes.vercel.app/)
 
 (January 2022)
 - 👀 I’m interested in front end development, and a little bit of back end, just to get things going
