@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Costa-Vitor-Fernandes (January 2022)
+- 👋 Hi, I’m @Costa-Vitor-Fernandes (21Jun) Now i have a cool [portfolio page](https://costa-vitor-fernandes.vercel.app/)
+
+(January 2022)
 - 👀 I’m interested in front end development, and a little bit of back end, just to get things going
 - 🌱 I’m currently learning some CSS keyframes , Javascript concepts and some Figma. I'm looking fowards to what i'll be able to do !
 - 💞️ I’m looking to collaborate on a cool company. You can find me on [Linkedin](linkedin.com/in/vítor-fernandes-fonseca-da-costa-111374213)
 - 📫 How to reach me : costa.vitor.fernandes@gmail.com
 
-- (21Jun) Now i have a cool [portfolio page](https://costa-vitor-fernandes.vercel.app/)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
