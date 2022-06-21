@@ -15,7 +15,11 @@
 - 🌱 So my first application is an restaurant digital orders app, for small restaurants. I had the inspiration when my family started a small restaurant business last year, after i saw their difficulties with organizing the orders. So a month ago i started learning ReactNative and started designing this piece of software using NodeJs and Mysql, which im putting into a separate folder(currently it is in my ultra messy "DEV" folder, see im learning github SEO stuff hahahah). Lets see how it goes?
 
 
-- 👋 Hi, now i have a cool portfolio page ! Im looking foward to start doing interviews (Jun 2022)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+- 👋 Hi, now i have a cool [portfolio page](https://costa-vitor-fernandes.vercel.app/) ! Im looking foward to start doing interviews (Jun 2022)
 <!---
 Costa-Vitor-Fernandes/Costa-Vitor-Fernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
