@@ -20,6 +20,7 @@
 
 
 - 👋 Hi, now i have a cool [portfolio page](https://costa-vitor-fernandes.vercel.app/) ! Im looking foward to start doing interviews (Jun 2022)
+- 🌱 I have updated the repositories that contain my restaurant-app, with readme.md explanations, you can check it now
 <!---
 Costa-Vitor-Fernandes/Costa-Vitor-Fernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
